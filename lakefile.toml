@@ -1,0 +1,10 @@
+name = "Modal Logic Project"
+version = "0.1.0"
+defaultTargets = ["modal logic project"]
+
+[[lean_lib]]
+name = "«Modal Logic Project»"
+
+[[lean_exe]]
+name = "modal logic project"
+root = "Main"
